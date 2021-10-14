@@ -5,15 +5,15 @@ El trabajo fue realizado por: Mauricio Duque y Nicolás Perez.
 
 Para descargar y abrir el proyecto se deben seguir los sigueintes comandos:
 
-mkdir -p proyectofinal_duque_perez
+      mkdir -p proyectofinal_duque_perez
 
-cd proyectofinal_duque_perez
+      cd proyectofinal_duque_perez
 
-git init
+      git init
 
-git clone https://github.com/Mauricioduque/ProyectoFinal_Robotica.git 
+      git clone https://github.com/Mauricioduque/ProyectoFinal_Robotica.git 
 
-roslaunch lab4 display_ur5.launch
+      roslaunch lab4 display_ur5.launch
 
-rosrun lab4 test_fkine
+      rosrun lab4 test_fkine
 
