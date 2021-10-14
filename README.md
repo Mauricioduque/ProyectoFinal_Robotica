@@ -1,5 +1,6 @@
 # ProyectoFinal_Robotica
-En este repositorio se muestran los archivos con los cuales se desarrolla el proyecto final de robótica industrial.
+En este repositorio se muestran los archivos con los cuales se desarrolla el proyecto final de robótica industrial. 
+Que consisite en un BRAZO ROBÓTICO (MANIPULADOR) con control de movimiento, el cual realiza la tarea de mover objetos de un lugar a otro.
 
 El trabajo fue realizado por: Mauricio Duque y Nicolás Perez.
 
